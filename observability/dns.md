@@ -1,0 +1,15 @@
+# 🧙 DNS
+
+Production resolves to the expected address from every resolver you test.
+
+TTL values are sensible. There are no recent record changes. Internal and external answers agree.
+
+DNS has an excellent alibi.
+
+This will not stop anyone mentioning DNS again.
+
+---
+
+## What do you do?
+
+- **[Inspect the load balancer](load-balancer.md)**
