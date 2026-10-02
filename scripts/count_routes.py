@@ -5,10 +5,8 @@ from collections import deque
 
 root = Path(__file__).resolve().parents[1]
 link_re = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
-
-if not (root / "README.md").exists():
-    print("No game content yet; finish-point check skipped.")
-    raise SystemExit(0)
+MAX_PATHS = 5000
+MAX_DEPTH = 40
 
 def rel(p):
     return p.relative_to(root).as_posix()
@@ -31,9 +29,8 @@ for md in root.rglob("*.md"):
     graph[rp] = targets
 
 endings = {p for p in graph if p.startswith("endings/")}
-if not endings:
-    raise SystemExit("Game has no finish points under endings/")
 
+# First prove reachability without enumerating every route.
 reachable = {"README.md"}
 q = deque(["README.md"])
 while q:
@@ -45,7 +42,31 @@ while q:
 
 missing_endings = endings - reachable
 if missing_endings:
-    raise SystemExit("Unreachable finish points: " + ", ".join(sorted(missing_endings)))
+    raise SystemExit("Unreachable endings: " + ", ".join(sorted(missing_endings)))
 
-print(f"Reachable finish points: {len(endings)}/{len(endings)}")
+# Then establish that the game has comfortably more than 50 distinct simple routes.
+count = 0
+
+def walk(node, seen, depth):
+    global count
+    if count >= MAX_PATHS:
+        return
+    if node in endings:
+        count += 1
+        return
+    if depth >= MAX_DEPTH:
+        return
+    for nxt in graph.get(node, []):
+        if nxt not in seen:
+            walk(nxt, seen | {nxt}, depth + 1)
+            if count >= MAX_PATHS:
+                return
+
+walk("README.md", {"README.md"}, 0)
+suffix = "+" if count >= MAX_PATHS else ""
+print(f"Playable simple routes found: {count}{suffix}")
+print(f"Reachable endings: {len(endings)}/{len(endings)}")
 print(f"Reachable game pages: {len(reachable)}/{len(graph)}")
+
+if count < 50:
+    raise SystemExit("Expected at least 50 playable routes")

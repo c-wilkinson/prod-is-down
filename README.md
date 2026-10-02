@@ -12,6 +12,8 @@ Apparently.
 
 You are now on call.
 
+> **Rule:** don't use your browser's Back button to undo decisions. Live with them like a real engineer.
+
 ---
 
 ## What do you do?

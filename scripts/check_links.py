@@ -29,4 +29,5 @@ if errors:
     sys.exit(1)
 
 pages = list(root.rglob("*.md"))
-print(f"OK: {len(pages)} Markdown files checked.")
+endings = list((root / "endings").glob("*.md"))
+print(f"OK: {len(pages)} Markdown files checked; {len(endings)} endings found.")
