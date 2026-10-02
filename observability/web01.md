@@ -13,5 +13,6 @@ Nothing here explains why its sibling disappeared.
 ## What do you do?
 
 - **[Read the application logs](web01-logs.md)**
+- **[Inspect database connections](../database/pool.md)**
 - **[Add capacity](../infrastructure/scale-out.md)**
 - **[Reboot WEB-01](../infrastructure/reboot-web.md)**

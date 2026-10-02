@@ -10,6 +10,6 @@ This is disappointing if you had already started composing a message blaming Car
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Inspect active sessions](../database/connections.md)**
+- **[Check for blocking](../database/blocking.md)**
+- **[Restart SQL anyway](../database/restart-sql.md)**

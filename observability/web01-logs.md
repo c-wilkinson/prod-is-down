@@ -10,4 +10,6 @@ SQL looks guilty. The logging looks suspicious.
 
 ## What do you do?
 
+- **[Investigate SQL](../database/sql.md)**
+- **[Inspect the connection pool](../database/pool.md)**
 - **[Investigate the DEBUG logging](debug-logs.md)**

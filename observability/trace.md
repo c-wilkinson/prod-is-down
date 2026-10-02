@@ -13,3 +13,4 @@ That is a useful distinction.
 ## What do you do?
 
 - **[Inspect WEB-01](web01.md)**
+- **[Inspect its connection pool](../database/pool.md)**
