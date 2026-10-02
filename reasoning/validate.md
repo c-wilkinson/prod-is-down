@@ -12,4 +12,5 @@ You could stop here, or use the incident to make the system better.
 
 ## What do you do?
 
+- **[Close the incident](../endings/root-cause-found.md)**
 - **[Do the post-incident work](post-incident.md)**

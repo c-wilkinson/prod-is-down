@@ -15,5 +15,6 @@ Nick explains that stakeholders *"just need a rough time"*. From this point on, 
 ## What do you do?
 
 - **[Keep investigating](../reasoning/timeline.md)**
+- **[Produce an architecture diagram](../meta/documentation.md)**
 - **[Open a vendor case](vendor.md)**
 - **[Submit an emergency CAB request](cab.md)**

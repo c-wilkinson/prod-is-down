@@ -10,6 +10,4 @@ Carol Query has stopped typing in the incident channel. This is somehow worse th
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Accept what you have done](../endings/database-was-fine.md)**

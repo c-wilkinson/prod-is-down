@@ -2,7 +2,7 @@
 
 You add 20 GB to `WEB-02`'s log volume.
 
-The application has room to write again, and the immediate disk pressure disappears.
+The application can start again, and the immediate disk pressure disappears.
 
 At the current logging rate, you have purchased time rather than solved the problem.
 
@@ -11,3 +11,5 @@ At the current logging rate, you have purchased time rather than solved the prob
 ## What do you do?
 
 - **[Fix the logging level](set-info.md)**
+- **[Call the extra capacity a permanent fix](../endings/scale-it-away.md)**
+- **[Restart the app](restart-app.md)**

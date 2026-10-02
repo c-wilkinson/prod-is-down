@@ -10,6 +10,4 @@ Users remain unable to use the application, but the wallboard is now considerabl
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Admire your work](../endings/all-alerts-resolved.md)**

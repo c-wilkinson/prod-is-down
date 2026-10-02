@@ -17,4 +17,5 @@ Governance has achieved temporal independence from reality.
 ## What do you do?
 
 - **[Make the controlled fix under incident authority](../reasoning/controlled-recovery.md)**
+- **[Wait until Monday](../endings/change-controlled.md)**
 - **[Escalate to Nick O'Time](manager.md)**

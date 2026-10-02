@@ -11,4 +11,5 @@ The reboot has confirmed that electricity was not the root cause.
 ## What do you do?
 
 - **[Check WEB-02 disk](../observability/disk.md)**
+- **[Reboot it once more](../endings/cowboy-engineer.md)**
 - **[Add another node instead](scale-out.md)**

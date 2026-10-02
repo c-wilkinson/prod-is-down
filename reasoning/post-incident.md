@@ -10,6 +10,7 @@ The recovery is complete. The question now is whether this can happen again.
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Add a production targeting guardrail](../meta/config-test.md)**
+- **[Improve detection](../meta/alerting.md)**
+- **[Fix the runbook](../meta/documentation.md)**
+- **[Do all of it](../endings/never-waste-incident.md)**

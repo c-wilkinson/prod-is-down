@@ -13,4 +13,5 @@ Your availability incident is trying to collect a security subplot.
 ## What do you do?
 
 - **[Restore normal logging and recover](../reasoning/controlled-recovery.md)**
+- **[chmod 777 until everything works](../endings/chmod-777.md)**
 - **[Start post-incident actions](../reasoning/post-incident.md)**

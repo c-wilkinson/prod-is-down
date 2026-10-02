@@ -22,3 +22,4 @@ It is unexpectedly catchy.
 
 - **[Collect the requested logs](../observability/web02-logs.md)**
 - **[Restart things because Seg asked](../infrastructure/restart-unrelated.md)**
+- **[Remain on hold until transcendence](../endings/vendor-hold-music.md)**

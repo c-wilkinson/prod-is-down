@@ -11,4 +11,5 @@ The standby application becomes active and customer traffic recovers. The incide
 ## What do you do?
 
 - **[Investigate the original environment](../reasoning/timeline.md)**
+- **[Leave DR running and call it a day](../endings/dr-worked.md)**
 - **[Fail back as soon as possible](../reasoning/check-both.md)**

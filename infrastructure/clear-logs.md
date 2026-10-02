@@ -11,3 +11,4 @@ Unless you fix the logging configuration, however, the disk will simply fill aga
 ## What do you do?
 
 - **[Fix logging configuration](set-info.md)**
+- **[Declare victory immediately](../endings/cowboy-engineer.md)**

@@ -9,3 +9,5 @@ There are two ways forward: target only the known runaway application logs, or l
 ## What do you do?
 
 - **[Delete only the confirmed application logs](clear-logs.md)**
+- **[rm -rf /var/log/*](../endings/evidence-destroyed.md)**
+- **[sudo rm -rf /var/log/*](../endings/evidence-destroyed.md)**

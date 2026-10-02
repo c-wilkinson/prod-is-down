@@ -14,5 +14,6 @@ The temptation to continue flushing increasingly distant caches is surprisingly 
 
 ## What do you do?
 
+- **[Escalate the exorcism](../endings/dns-exorcist.md)**
 - **[Inspect the load balancer](../observability/load-balancer.md)**
 - **[Return to evidence](../reasoning/hypothesis-web.md)**

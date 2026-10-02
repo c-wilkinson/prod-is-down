@@ -12,3 +12,4 @@ The graphs look much healthier. This is the point at which premature celebration
 
 - **[Validate the service end to end](../reasoning/validate.md)**
 - **[Check WEB-01 before stopping](../reasoning/check-both.md)**
+- **[Go home immediately](../endings/fast-restore.md)**

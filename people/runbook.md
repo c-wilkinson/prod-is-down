@@ -16,3 +16,4 @@ The document was last updated in 2019.
 
 - **[Find Steve Bus Error](steve.md)**
 - **[Use monitoring instead](../observability/dashboard.md)**
+- **[Rewrite the runbook before fixing prod](../meta/documentation.md)**

@@ -9,4 +9,5 @@ Requests are waiting for a free connection and eventually timing out before they
 ## What do you do?
 
 - **[Ask why only WEB-01 is busy](../observability/load-balancer.md)**
+- **[Increase the pool limit](../endings/scale-it-away.md)**
 - **[Inspect WEB-01 metrics](../observability/web01.md)**

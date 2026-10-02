@@ -12,5 +12,6 @@ Technically, it is now.
 
 ## What do you do?
 
+- **[Keep restarting things](../endings/cowboy-engineer.md)**
 - **[Stop and inspect evidence](../observability/dashboard.md)**
 - **[Open a vendor ticket before touching more](../people/vendor.md)**

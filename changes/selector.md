@@ -11,4 +11,5 @@ This is the sort of sentence that appears in post-incident reports.
 ## What do you do?
 
 - **[Fix the production config](../infrastructure/set-info.md)**
+- **[Add a guardrail test](../meta/config-test.md)**
 - **[Start the post-incident trail](../reasoning/post-incident.md)**

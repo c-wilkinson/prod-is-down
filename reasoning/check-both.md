@@ -14,3 +14,4 @@ You have found the difference between restoring service and actually stabilising
 
 - **[Restore INFO logging](../infrastructure/set-info.md)**
 - **[Clean the affected logs](../infrastructure/clear-logs.md)**
+- **[Ignore WEB-01 and stop](../endings/cowboy-engineer.md)**

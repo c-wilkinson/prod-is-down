@@ -18,3 +18,4 @@ Rick quietly stops hovering over the button.
 
 - **[Return to monitoring](../observability/dashboard.md)**
 - **[Double down and blame SQL](../reasoning/hypothesis-db.md)**
+- **[Accept your cowboy badge](../endings/cowboy-engineer.md)**

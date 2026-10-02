@@ -11,4 +11,5 @@ New log growth drops immediately.
 ## What do you do?
 
 - **[Check both web nodes before celebrating](../reasoning/check-both.md)**
+- **[Assume the change fixed everything](../endings/fast-restore.md)**
 - **[Perform a controlled recovery](../reasoning/controlled-recovery.md)**

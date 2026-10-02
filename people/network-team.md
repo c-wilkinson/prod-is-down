@@ -15,4 +15,5 @@ The fact that her name sounds suspiciously relevant does not make DNS the proble
 ## What do you do?
 
 - **[Believe Dee and inspect the app](../reasoning/hypothesis-web.md)**
+- **[Raise another network ticket](../endings/ticket-tennis.md)**
 - **[Check DNS anyway](../observability/dns.md)**

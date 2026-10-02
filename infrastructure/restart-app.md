@@ -16,4 +16,5 @@ Restarting it again will not create more disk space, but the button remains avai
 ## What do you do?
 
 - **[Check disk usage](../observability/disk.md)**
+- **[Restart it again with conviction](../endings/cowboy-engineer.md)**
 - **[Reboot the whole server](reboot-web.md)**
