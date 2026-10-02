@@ -16,3 +16,6 @@ The application cannot create or extend its log files, which explains why the se
 ## What do you do?
 
 - **[Find what filled it](debug-logs.md)**
+- **[Delete some logs](../infrastructure/clear-logs.md)**
+- **[Extend the disk](../infrastructure/extend-disk.md)**
+- **[Use rm with enthusiasm](../infrastructure/rm-logs.md)**

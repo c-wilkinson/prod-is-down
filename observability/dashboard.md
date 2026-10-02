@@ -15,3 +15,4 @@ The database dashboard, irritatingly, looks mostly normal.
 - **[Check the public HTTP endpoint](front-door.md)**
 - **[Inspect the load balancer](load-balancer.md)**
 - **[Look at the web servers](web01.md)**
+- **[Silence Ann's noisy alert](../infrastructure/disable-alert.md)**

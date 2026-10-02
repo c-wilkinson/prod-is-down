@@ -11,3 +11,4 @@ You can renew it anyway if you enjoy introducing unrelated variables during inci
 ## What do you do?
 
 - **[Check DNS](dns.md)**
+- **[Restart infrastructure while 'refreshing' it](../infrastructure/restart-unrelated.md)**

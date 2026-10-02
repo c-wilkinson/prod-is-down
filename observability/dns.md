@@ -12,4 +12,5 @@ This will not stop anyone mentioning DNS again.
 
 ## What do you do?
 
+- **[Flush caches anyway](../infrastructure/flush-dns.md)**
 - **[Inspect the load balancer](load-balancer.md)**

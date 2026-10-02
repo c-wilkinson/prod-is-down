@@ -10,6 +10,4 @@ The first DEBUG line appears at **16:41:08**, almost exactly when today's config
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Set logging back to INFO](../infrastructure/set-info.md)**

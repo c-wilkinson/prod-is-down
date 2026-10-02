@@ -11,3 +11,4 @@ Something stopped it from writing.
 ## What do you do?
 
 - **[Check disk usage](disk.md)**
+- **[Restart the application](../infrastructure/restart-app.md)**

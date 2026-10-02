@@ -10,4 +10,7 @@ A dead application on a healthy machine is almost considerate.
 
 ## What do you do?
 
+- **[SSH to WEB-02](../infrastructure/ssh-web02.md)**
 - **[Inspect its application logs](web02-logs.md)**
+- **[Reboot the server](../infrastructure/reboot-web.md)**
+- **[Replace it with another node](../infrastructure/scale-out.md)**

@@ -17,4 +17,5 @@ You are now on call.
 ## What do you do?
 
 - **[📊 Look at monitoring](observability/dashboard.md)**
+- **[🔥 Start touching production](infrastructure/production.md)**
 - **[🏠 Close the laptop](endings/work-life-balance.md)**

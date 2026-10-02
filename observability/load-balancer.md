@@ -14,3 +14,5 @@ This seems worth remembering.
 
 - **[Inspect WEB-02](web02.md)**
 - **[Inspect WEB-01](web01.md)**
+- **[Restart the load balancer anyway](../infrastructure/restart-unrelated.md)**
+- **[Remove WEB-01 too, for symmetry](../infrastructure/remove-web01.md)**
