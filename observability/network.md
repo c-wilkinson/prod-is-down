@@ -8,4 +8,6 @@ Latency between the application and database tiers is stable. Packet loss is zer
 
 ## What do you do?
 
+- **[Return to the application tier](../reasoning/hypothesis-web.md)**
+- **[Escalate to Dee anyway](../people/network-team.md)**
 - **[Check DNS, because tradition](dns.md)**

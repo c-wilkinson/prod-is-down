@@ -17,3 +17,4 @@ The release looked healthy for more than two hours, but time correlation is not 
 - **[Inspect the application deployment](app-deploy.md)**
 - **[Inspect the configuration run](config-run.md)**
 - **[Read the approved change record](change-ticket.md)**
+- **[Build a timeline first](../reasoning/timeline.md)**

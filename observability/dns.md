@@ -14,3 +14,4 @@ This will not stop anyone mentioning DNS again.
 
 - **[Flush caches anyway](../infrastructure/flush-dns.md)**
 - **[Inspect the load balancer](load-balancer.md)**
+- **[Accept DNS is innocent](../reasoning/hypothesis-web.md)**

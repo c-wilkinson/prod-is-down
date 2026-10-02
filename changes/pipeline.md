@@ -20,3 +20,4 @@ Wildcards remain undefeated.
 
 - **[Inspect the selector logic](selector.md)**
 - **[Run the config again with the right target](../infrastructure/set-info.md)**
+- **[Open the war room](../people/war-room.md)**

@@ -12,4 +12,5 @@ This is disappointing if you had already started composing a message blaming Car
 
 - **[Inspect active sessions](../database/connections.md)**
 - **[Check for blocking](../database/blocking.md)**
+- **[Accept that SQL may be innocent](../reasoning/hypothesis-web.md)**
 - **[Restart SQL anyway](../database/restart-sql.md)**

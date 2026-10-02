@@ -12,3 +12,4 @@ The first DEBUG line appears at **16:41:08**, almost exactly when today's config
 
 - **[Audit configuration changes](../changes/config-run.md)**
 - **[Set logging back to INFO](../infrastructure/set-info.md)**
+- **[Ask Bobby Tables what changed](../people/bobby-tables.md)**

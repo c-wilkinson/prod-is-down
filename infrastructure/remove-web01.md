@@ -12,3 +12,4 @@ The intermittent outage has become beautifully consistent: every request fails.
 
 - **[Put WEB-01 back immediately](../observability/web01.md)**
 - **[Fail over to DR](dr.md)**
+- **[Open a war room and speak calmly](../people/war-room.md)**

@@ -13,4 +13,5 @@ The code itself is fine. The question is why production was selected by the auto
 ## What do you do?
 
 - **[Inspect pipeline targeting](pipeline.md)**
+- **[Ask Bobby Tables what happened](../people/bobby-tables.md)**
 - **[Roll back the change](rollback-config.md)**

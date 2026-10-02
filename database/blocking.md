@@ -11,4 +11,5 @@ The top wait categories are consistent with ordinary application traffic.
 ## What do you do?
 
 - **[Inspect a suspicious report query](report-query.md)**
+- **[Look back at the web tier](../reasoning/hypothesis-web.md)**
 - **[Restart SQL anyway](restart-sql.md)**

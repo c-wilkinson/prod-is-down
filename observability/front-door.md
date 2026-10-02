@@ -16,5 +16,6 @@ That narrows things down, but it does not stop the incident channel filling with
 
 - **[Trace a request through the stack](trace.md)**
 - **[Inspect the load balancer](load-balancer.md)**
+- **[Ask Dee N. Ess](../people/network-team.md)**
 - **[Test the network path](network.md)**
 - **[Check the TLS certificate](certificate.md)**

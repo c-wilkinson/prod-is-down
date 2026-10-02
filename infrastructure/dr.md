@@ -10,6 +10,5 @@ The standby application becomes active and customer traffic recovers. The incide
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Investigate the original environment](../reasoning/timeline.md)**
+- **[Fail back as soon as possible](../reasoning/check-both.md)**

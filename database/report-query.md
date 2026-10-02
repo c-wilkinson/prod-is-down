@@ -13,3 +13,5 @@ A good red herring should at least have the decency to be new.
 ## What do you do?
 
 - **[Kill it anyway](kill-sessions.md)**
+- **[Treat it as a red herring](../reasoning/hypothesis-web.md)**
+- **[Tell Finance their report caused everything](../people/manager.md)**

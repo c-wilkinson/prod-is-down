@@ -12,4 +12,5 @@ The new node is receiving the same DEBUG configuration, though, and its log part
 
 ## What do you do?
 
+- **[Investigate why the original node failed](../reasoning/timeline.md)**
 - **[Inspect the logging rate](../observability/debug-logs.md)**

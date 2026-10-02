@@ -13,3 +13,4 @@ Technically, it is now.
 ## What do you do?
 
 - **[Stop and inspect evidence](../observability/dashboard.md)**
+- **[Open a vendor ticket before touching more](../people/vendor.md)**

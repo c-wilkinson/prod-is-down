@@ -10,6 +10,5 @@ The graphs look much healthier. This is the point at which premature celebration
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Validate the service end to end](../reasoning/validate.md)**
+- **[Check WEB-01 before stopping](../reasoning/check-both.md)**

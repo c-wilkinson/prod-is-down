@@ -10,6 +10,5 @@ New log growth drops immediately.
 
 ## What do you do?
 
----
-
-↩️ **[Return to the incident](../README.md)**
+- **[Check both web nodes before celebrating](../reasoning/check-both.md)**
+- **[Perform a controlled recovery](../reasoning/controlled-recovery.md)**

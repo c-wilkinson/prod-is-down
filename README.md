@@ -19,4 +19,6 @@ You are now on call.
 - **[📊 Look at monitoring](observability/dashboard.md)**
 - **[📝 Check what changed](changes/recent.md)**
 - **[🔥 Start touching production](infrastructure/production.md)**
+- **[👥 Open a war room](people/war-room.md)**
+- **[📖 Find the runbook](people/runbook.md)**
 - **[🏠 Close the laptop](endings/work-life-balance.md)**
