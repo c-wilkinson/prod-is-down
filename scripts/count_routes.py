@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 from pathlib import Path
 import re
+from collections import deque
 
 root = Path(__file__).resolve().parents[1]
 link_re = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 
 if not (root / "README.md").exists():
-    print("No game content yet; route check skipped.")
+    print("No game content yet; finish-point check skipped.")
     raise SystemExit(0)
 
 def rel(p):
@@ -30,23 +31,21 @@ for md in root.rglob("*.md"):
     graph[rp] = targets
 
 endings = {p for p in graph if p.startswith("endings/")}
-count = 0
+if not endings:
+    raise SystemExit("Game has no finish points under endings/")
 
-def walk(node, seen, depth=0):
-    global count
-    if count >= MAX_PATHS:
-        return
-    if node in endings:
-        count += 1
-        return
-    if depth >= 40:
-        return
+reachable = {"README.md"}
+q = deque(["README.md"])
+while q:
+    node = q.popleft()
     for nxt in graph.get(node, []):
-        if nxt not in seen:
-            walk(nxt, seen | {nxt}, depth + 1)
-            if count >= MAX_PATHS:
-                return
+        if nxt not in reachable:
+            reachable.add(nxt)
+            q.append(nxt)
 
-walk("README.md", {"README.md"})
-suffix = "+" if count >= MAX_PATHS else ""
-print(f"Playable simple routes found: {count}{suffix}")
+missing_endings = endings - reachable
+if missing_endings:
+    raise SystemExit("Unreachable finish points: " + ", ".join(sorted(missing_endings)))
+
+print(f"Reachable finish points: {len(endings)}/{len(endings)}")
+print(f"Reachable game pages: {len(reachable)}/{len(graph)}")
