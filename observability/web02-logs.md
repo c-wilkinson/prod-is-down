@@ -12,3 +12,4 @@ Something stopped it from writing.
 
 - **[Check disk usage](disk.md)**
 - **[Restart the application](../infrastructure/restart-app.md)**
+- **[Assume the application deployment is bad](../changes/app-deploy.md)**

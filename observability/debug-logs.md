@@ -10,4 +10,5 @@ The first DEBUG line appears at **16:41:08**, almost exactly when today's config
 
 ## What do you do?
 
+- **[Audit configuration changes](../changes/config-run.md)**
 - **[Set logging back to INFO](../infrastructure/set-info.md)**
